@@ -1,0 +1,55 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio_output.jpg",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        
+        {
+            "image" : "images/projects/AI_code_review.jpg",
+            "title": "AI-Based Code Reviewer ",
+            "bodyText": "Built an AI-powered code review system using Go and Fiber, integrating Google Gemini API to automate code analysis and reduce manual review time by 30%.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gnanada-s/AI-code-review.git"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Go ",
+                "Fiber", 
+                "PostgreSQL" 
+            ]
+        },
+       
+        {
+            "image" : "images/projects/Assignment_generator.jpg",
+            "title": "AI-Powered Assignment Generator",
+            "bodyText": "Developed a full-stack app using Gemini API to auto-generate assignment questions, cutting 40% of manual effort.Built RESTful APIs with Node.js, a React frontend, and MySQL for secure course and question storage.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gnanada-s/AI-assignment-generator"
+                }
+            ],
+            "tags" : [
+                "Node.js", 
+                "React",
+                 "MySQL"
+            ]
+        }   
+    ]
+}

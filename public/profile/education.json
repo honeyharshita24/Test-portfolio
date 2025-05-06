@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "Sep 2023 - May 2026",
+            "cardTitle": "B. Tech, Electronics & Communications",
+            "cardSubtitle":"Sreenidhi Institute of Science and Technology ,",
+            "cardDetailedText": "GPA - 8.7"
+        },
+        {
+            "title": "Aug 2020 - May 2023",
+            "cardTitle": "Diploma in Electronics and Communications",
+            "cardSubtitle":"Government Polytechnic, Masab Tank",
+            "cardDetailedText": " CGPA- 9.25"
+        }
+    ]
+}

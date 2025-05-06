@@ -1,0 +1,24 @@
+{
+    "experiences": [
+        {
+            "title": "Embedded System Developer",
+            "subtitle": "Lane Detection for ADAS",
+            "workType": "Part-time",
+            "workDescription": [
+                "Simulated a temperature sensing system using Arduino Uno, emphasizing sensor integration and real-time data acquisition.",
+                "Gained hands-on experience in microcontroller programming with C and Embedded C."                
+            ],
+            "dateText": "Apr 2024 – Jun 2024"
+        },
+        {
+            "title": "Automobile Embedded Systems Intern",
+            "subtitle": "VJTC Pvt. Ltd.",
+            "workType": "Internship",
+            "workDescription": [
+                "Contributed to a MATLAB-based project focused on edge detection and lane classification for automotive image processing applications.",
+"Acquired practical knowledge of automotive communication protocols, real-time system testing, and validation procedures."
+            ],
+            "dateText": "May 2024 – Jun 2024"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "http://www.linkedin.com/in/gnanada-sontika"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/gnanada-s/AI-assignment-generator"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:gnanada.sontika@gmail.com"
+        }
+    ]
+}
